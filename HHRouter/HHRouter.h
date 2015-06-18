@@ -20,6 +20,8 @@
 //  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 //  THE SOFTWARE.
 //  测试git提交和redmine问题关联。实现问题和代码关联，提交之后自动关闭readmine的issue
+//  测试git提交和redmine问题关联。实现问题和代码关联，提交之后自动关闭readmine的issue
+
 #import <Foundation/Foundation.h>
 
 ///---------------
